@@ -1,3 +1,4 @@
+
 # Personal Finance Dashboard
 
 A modern, responsive personal finance management application built with React, TypeScript, and Tailwind CSS. Track your expenses, manage budgets, and visualize your financial data with interactive charts and analytics.
@@ -61,7 +62,7 @@ A modern, responsive personal finance management application built with React, T
 
 1. Clone the repository
 ```bash
-git clone https://github.com/yourusername/personal-finance-dashboard.git
+git clone https://github.com/iambhavesh55/personal-finance-dashboard.git
 cd personal-finance-dashboard
 ```
 
@@ -156,10 +157,10 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 👨‍💻 Author
 
-**Your Name**
-- GitHub: [@yourusername](https://github.com/yourusername)
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourprofile)
-- Email: your.email@example.com
+**Bhavesh Chaudhary**
+- GitHub: [@iambhavesh55](https://github.com/iambhavesh55)
+- LinkedIn: [Bhavesh Chaudhary](https://linkedin.com/in/bhavesh-chaudhary-3a055a28a/)
+- Email: iambhavesh55@gmail.com
 
 ## 🙏 Acknowledgments
 
